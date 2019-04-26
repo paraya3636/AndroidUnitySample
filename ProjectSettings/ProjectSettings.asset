@@ -153,6 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: sample.aiueo
     iOS: sample.aiueo
   buildNumber: {}
   AndroidBundleVersionCode: 1
