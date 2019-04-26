@@ -12,7 +12,8 @@ public class MyBuilder {
                 allScene.Add (scene.path);
             }
         }   
-//            PlayerSettings.bundleIdentifier = "sample.aiueo";
+        
+        PlayerSettings.applicationIdentifier = "sample.aiueo";
         PlayerSettings.statusBarHidden = true;
         BuildPipeline.BuildPlayer( 
             allScene.ToArray(),
